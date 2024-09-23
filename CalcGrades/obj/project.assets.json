@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/Lucas/Desktop/workspace/ConsoleApp1/CalcGrades/CalcGrades.csproj",
+      "projectUniqueName": "/Users/Lucas/Desktop/workspace/CalcGrades/CalcGrades/CalcGrades.csproj",
       "projectName": "CalcGrades",
-      "projectPath": "/Users/Lucas/Desktop/workspace/ConsoleApp1/CalcGrades/CalcGrades.csproj",
+      "projectPath": "/Users/Lucas/Desktop/workspace/CalcGrades/CalcGrades/CalcGrades.csproj",
       "packagesPath": "/Users/Lucas/.nuget/packages/",
-      "outputPath": "/Users/Lucas/Desktop/workspace/ConsoleApp1/CalcGrades/obj/",
+      "outputPath": "/Users/Lucas/Desktop/workspace/CalcGrades/CalcGrades/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/Lucas/.nuget/NuGet/NuGet.Config"

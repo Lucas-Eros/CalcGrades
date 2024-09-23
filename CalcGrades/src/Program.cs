@@ -25,7 +25,7 @@ for (int i = 0; i < countGrades; i++)
     double grade = double.Parse(Console.ReadLine()!);
     grades.Add(grade);
 
-    Console.Write($"Digite o peso para a n2ota {i + 1}: ");
+    Console.Write($"Digite o peso para a nota {i + 1}: ");
     double weight = double.Parse(Console.ReadLine()!);
     weights.Add(weight);
 }

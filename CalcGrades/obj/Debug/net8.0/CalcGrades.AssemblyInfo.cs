@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CalcGrades")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+509e4ce4ad8fbf6f518522bab6413636f374fea5")]
 [assembly: System.Reflection.AssemblyProductAttribute("CalcGrades")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CalcGrades")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
