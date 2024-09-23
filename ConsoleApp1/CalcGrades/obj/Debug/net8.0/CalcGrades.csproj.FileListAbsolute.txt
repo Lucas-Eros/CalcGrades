@@ -1,0 +1,14 @@
+/Users/Lucas/Desktop/workspace/ConsoleApp1/CalcGrades/bin/Debug/net8.0/CalcGrades
+/Users/Lucas/Desktop/workspace/ConsoleApp1/CalcGrades/bin/Debug/net8.0/CalcGrades.deps.json
+/Users/Lucas/Desktop/workspace/ConsoleApp1/CalcGrades/bin/Debug/net8.0/CalcGrades.runtimeconfig.json
+/Users/Lucas/Desktop/workspace/ConsoleApp1/CalcGrades/bin/Debug/net8.0/CalcGrades.dll
+/Users/Lucas/Desktop/workspace/ConsoleApp1/CalcGrades/bin/Debug/net8.0/CalcGrades.pdb
+/Users/Lucas/Desktop/workspace/ConsoleApp1/CalcGrades/obj/Debug/net8.0/CalcGrades.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Lucas/Desktop/workspace/ConsoleApp1/CalcGrades/obj/Debug/net8.0/CalcGrades.AssemblyInfoInputs.cache
+/Users/Lucas/Desktop/workspace/ConsoleApp1/CalcGrades/obj/Debug/net8.0/CalcGrades.AssemblyInfo.cs
+/Users/Lucas/Desktop/workspace/ConsoleApp1/CalcGrades/obj/Debug/net8.0/CalcGrades.csproj.CoreCompileInputs.cache
+/Users/Lucas/Desktop/workspace/ConsoleApp1/CalcGrades/obj/Debug/net8.0/CalcGrades.dll
+/Users/Lucas/Desktop/workspace/ConsoleApp1/CalcGrades/obj/Debug/net8.0/refint/CalcGrades.dll
+/Users/Lucas/Desktop/workspace/ConsoleApp1/CalcGrades/obj/Debug/net8.0/CalcGrades.pdb
+/Users/Lucas/Desktop/workspace/ConsoleApp1/CalcGrades/obj/Debug/net8.0/CalcGrades.genruntimeconfig.cache
+/Users/Lucas/Desktop/workspace/ConsoleApp1/CalcGrades/obj/Debug/net8.0/ref/CalcGrades.dll
